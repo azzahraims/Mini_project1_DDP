@@ -19,6 +19,9 @@ Program ini apabila dijalankan yang pertama akan muncul ialah menu yang terdiri 
 3. Hapus anggota, ini digunakan untuk menghapus data yang telah dimasukkan.
 4. Keluar dari program, merupakan akhir dari program jika memilih menu ini.
 
+<img width="474" height="195" alt="Screenshot 2025-09-14 210904" src="https://github.com/user-attachments/assets/4e8fed58-33f1-428f-8632-5044872d4c9e" />  
+
+
 Kemudian diberikan sebuah input untuk memilih menu yang diinginkan, yaitu 1, 2, 3, atau 4. Jika memilih selain angka tersebut maka akan mengeluarkan output "Pilihan tidak tersedia. Coba Lagi"  
 
 # Menu 1  
