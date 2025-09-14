@@ -28,7 +28,7 @@ Pada pilihan menu pertama digunakan untuk mengcreate data panitia makrab dengan 
 
 # Menu 2  
 <img width="1311" height="336" alt="2 menampilkan data" src="https://github.com/user-attachments/assets/3763b86c-37c1-45f2-b3f3-13061d5e7879" />  
-<img width="561" height="406" alt="read tanpa struktur" src="https://github.com/user-attachments/assets/b06c5adf-5304-4c21-9a31-329721022d5c" />  
+<img width="491" height="187" alt="Screenshot 2025-09-14 205945" src="https://github.com/user-attachments/assets/19cd462f-2b13-4219-ac3f-74818785831e" />  
 
 Selanjutnya di menu kedua akan menampilkan daftar panitia makrab yang telah di input di menu pertama tadi. Namun, jika belum pernah memasukkan data pada menu 1, maka akan menampilkan output yaitu "Belum ada struktur kepanitiaan".  
 
