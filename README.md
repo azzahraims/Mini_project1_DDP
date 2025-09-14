@@ -27,6 +27,30 @@ Kemudian diberikan sebuah input untuk memilih menu yang diinginkan, yaitu 1, 2, 
 Pada pilihan menu pertama digunakan untuk mengcreate data panitia makrab dengan menginput nama, jabatan atau divisi, serta tugas dari suatu jabatan maupun divisi. 
 
 # Menu 2  
+<img width="1311" height="336" alt="2 menampilkan data" src="https://github.com/user-attachments/assets/3763b86c-37c1-45f2-b3f3-13061d5e7879" />  
+<img width="561" height="406" alt="read tanpa struktur" src="https://github.com/user-attachments/assets/b06c5adf-5304-4c21-9a31-329721022d5c" />  
+
+Selanjutnya di menu kedua akan menampilkan daftar panitia makrab yang telah di input di menu pertama tadi. Namun, jika belum pernah memasukkan data pada menu 1, maka akan menampilkan output yaitu "Belum ada struktur kepanitiaan".  
+
+# Menu 3  
+<img width="670" height="273" alt="menghapus versi bener" src="https://github.com/user-attachments/assets/7a0ed36f-8ce8-43e0-bc56-09cc818223ed" />  
+<img width="768" height="186" alt="Screenshot 2025-09-14 204407" src="https://github.com/user-attachments/assets/e9e79062-2208-42f2-a160-5fba2b4512fd" />  
+
+Pada menu ke tiga ini ialah program untuk menghapus anggota atau data yang telah diinput, yaitu dengan memasukkan nama anggota yang ingin dihapus. Jika kita ingin menghapus anggota yang telah diinput, maka masukkan nama sesuai apa yang telah diinput dan akan menampilkan "Anggota tidak ditemukan" serta "(anggota) berhasil dihapus". Namun apabila kita belum ada menginput data sama sekali maka akan menampilkan "Struktur kepanitiaan masih kosong, tidak ada data yang dihapus".  
+
+# Menu 4  
+<img width="607" height="217" alt="4 tutup program" src="https://github.com/user-attachments/assets/dd18fc1b-92e8-400c-a868-2270ee6c972a" />  
+
+Merupakan akhir dari program jika memilih menu 4. Pilihan ini merupakan cara untuk keluar dari program tersebut. 
+
+
+
+
+
+
+
+
+
 
 
 
